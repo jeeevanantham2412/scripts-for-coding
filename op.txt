@@ -1,0 +1,228 @@
+{
+  "errors": [
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_001",
+      "error_message": "Username field is disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_002",
+      "error_message": "Password field is disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_003",
+      "error_message": "Login button is disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_004",
+      "error_message": "Credential expired  for the user"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_005",
+      "error_message": "Invalid credential"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_006",
+      "error_message": "Palmetto account is locked"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_007",
+      "error_message": "Email me button disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_008",
+      "error_message": "OTP text box is diabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_009",
+      "error_message": "Submit button is disabled  for submiting otp"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_010",
+      "error_message": "Submitted otp expired"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_011",
+      "error_message": "Aknowledge button disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_012",
+      "error_message": "Submitted otp expired"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_013",
+      "error_message": "Unable to authenticate email"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_014",
+      "error_message": "Otp not recieved"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_015",
+      "error_message": "Logout button disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_016",
+      "error_message": "Benificiary last name field is disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_017",
+      "error_message": "Benificiary first name field is disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_018",
+      "error_message": "Benificiary medicare id field is disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_019",
+      "error_message": "Benificiary date of birth field is disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_020",
+      "error_message": "Submit button is disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_021",
+      "error_message": "All screen tab is disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_022",
+      "error_message": "Print button is disabled."
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_BE_023",
+      "error_message": "Menu tab is disabled"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_001",
+      "error_message": "Unable to access login page"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_002",
+      "error_message": "Unable to access the username field"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_003",
+      "error_message": "Unable to access the password field"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_004",
+      "error_message": "Unable to access login button"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_005",
+      "error_message": "Unable to access mfa page"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_005",
+      "error_message": "Unable to login"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_006",
+      "error_message": "Failed to login"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_007",
+      "error_message": "Unable to access email me button"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_007",
+      "error_message": "Unable to login"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_008",
+      "error_message": "Unable to access otp textbox"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_009",
+      "error_message": "Unable to access otp submit button"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_010",
+      "error_message": "Unable to find last login popup"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_011",
+      "error_message": "Unable to access aknowledge button"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_012",
+      "error_message": "Unable to access home page"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_013",
+      "error_message": "Unknown error occured"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_014",
+      "error_message": "Error while loading login credentials"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_015",
+      "error_message": "Failed to extract otp"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_016",
+      "error_message": "Failed to extract otp"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_017",
+      "error_message": "Unable to access logout button"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_018",
+      "error_message": "Unable to access eligibiity page."
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_019",
+      "error_message": "Unable to access the benificiary last name field"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_020",
+      "error_message": "Unable to access the benificiary firstname field"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_021",
+      "error_message": "Unable to access the medicare id field"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_022",
+      "error_message": "Unable to access the date of birth field"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_023",
+      "error_message": "Unable to access the submit button."
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_024",
+      "error_message": "Unable to access all screen tab."
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_025",
+      "error_message": "Unable to access all screen tab."
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_026",
+      "error_message": "Unable to access the print button"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_027",
+      "error_message": "Unable to access the print button"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_028",
+      "error_message": "Unable to save pdf."
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_029",
+      "error_message": "Unable to access menu tab"
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_030",
+      "error_message": "Unable to save pdf."
+    },
+    {
+      "error_code": "E5_PALMETTO_FB_EXTRACT_ELIGIBILITY_RESPONSE_SE_031",
+      "error_message": "Unable to access eligibiity page."
+    }
+  ]
+}

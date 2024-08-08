@@ -1,0 +1,561 @@
+# function-exceptions.yaml : contains module error codes  and messages
+e5:
+  PAYMENT_ID_NOT_ENABLED_IN_APPLY_FILTER_DOWNLOADS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_BE_001
+    message: Payment id not enabled in apply filter downloads fn.
+
+  SEARCH_BUTTON_NOT_ENABLED_IN_APPLY_FILTER_DOWNLOADS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_BE_002
+    message: Search button not enabled in apply filter downloads fn.
+
+  EXPAND_ID_SEARCH_PANEL_NOT_ENABLED_IN_APPLY_FILTER_DOWNLOADS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_BE_003
+    message: Expand id search panel not enabled in apply filter downloads fn.
+
+  INVALID_VALUES_TO_SEARCH_DOWNLOAD_PAGE:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_BE_004
+    message: Invalid values to search download page.
+
+  DOWNLOAD_PAGE_NOT_LOADED_IN_APPLY_FILTER_DOWNLOADS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_BE_005
+    message: Download page not loaded in apply filter downloads fn.
+
+  UNKNOWN_ERROR_OCCURED_IN_APPLY_FILTERS_DOWNLOADS:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_SE_000
+    message: Unknown error occured in apply filters downloads.
+
+  UNABLE_TO_ENTER_PAYMENT_ID_IN_APPLY_FILTER_DOWNLOADS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_SE_001
+    message: Unable to enter payment id in apply filter downloads fn.
+
+  UNABLE_TO_ACCESS_SEARCH_BUTTON_IN_APPLY_FILTER_DOWNLOADS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_SE_002
+    message: Unable to access search button in apply filter downloads fn.
+
+  UNABLE_TO_EXPAND_ID_SEARCH_PANEL_IN_APPLY_FILTER_DOWNLOADS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_SE_003
+    message: Unable to expand id search panel in apply filter downloads fn.
+
+  INVALID_INPUT_DATA_IN_APPLY_FILTER_DOWNLOADS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_SE_004
+    message: Invalid input data in apply filter downloads fn.
+
+  MODULE_NOT_DEVELOPED_FOR_APPLY_FILTER_DOWNLOADS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_SE_005
+    message: Module not developed for apply filter downloads fn.
+
+  MODULE_NOT_DEVELOPED_FOR_THE_DOWNLOAD_FILTER:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_SE_005
+    message: Module not developed for the download filter.
+
+  LOADER_PRESENT_IN_REMITS_DOWNLOADS_PAGE:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_SE_006
+    message: Loader present in remits downloads page.
+
+  INVALID_INPUT_DATA_IN_DOWNLOAD_FILTER:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_DOWNLOADS_SE_007
+    message: Invalid input data in download filter.
+
+  RECEIVED_FROM_DATE_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_BE_001
+    message: Received from date not enabled.
+
+  RECEIVED_TO_DATE_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_BE_002
+    message: Received to date not enabled.
+
+  PAYMENT_FROM_DATE_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_BE_003
+    message: Payment from date not enabled.
+
+  PAYMENT_TO_DATE_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_BE_004
+    message: Payment to date not enabled.
+
+  SEARCH_BUTTON_NOT_ENABLED_PAYMENTS_PAGE:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_BE_005
+    message: Search button not enabled payments page.
+
+  PAYMENT_NUMBER_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_BE_006
+    message: Payment number not enabled.
+
+  EXPAND_SEARCH_BUTTON_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_BE_007
+    message: Expand search button not enabled.
+
+  BOTTOM_SEARCH_BUTTON_NOT_ENABLED_IN_APPLY_PAYMENT_FILTER_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_BE_008
+    message: Bottom search button not enabled in apply payment filter fn.
+
+  PAYMENT_PAGE_NOT_LOADED_IN APPLY_FILTER_PAYMENTS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_BE_009
+    message: Payment page not loaded in apply filter payments fn.
+
+  VIEW_OPTION_DROPDOWN_NOT_ENABLED_IN APPLY_FILTER_PAYMENTS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_BE_010
+    message: View option dropdown not enabled in apply filter payments fn.
+
+  UNKNOWN_ERROR_OCCURED_IN_APPLY_FOLTER_PAYMENTS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_000
+    message: Unknown error occured in apply folter payments fn.
+
+  UNABLE_TO_ENTER_RECEIVED_FROM_DATE:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_001
+    message: Unable to enter received from date.
+
+  UNABLE_TO_ENTER_RECEIVED_TO_DATE:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_002
+    message: Unable to enter received to date.
+
+  UNABLE_TO_ENTER_PAYMENT_FROM_DATE:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_003
+    message: Unable to enter payment from date.
+
+  UNABLE_TO_ENTER_PAYMENT_TO_DATE:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_004
+    message: Unable to enter payment to date.
+
+  UNABLE_TO_ACCESS_SEARCH_BUTTON_PAYMENTS_PAGE:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_005
+    message: Unable to access search button payments page.
+
+  UNABLE_TO_ENTER_PAYMENT_NUMBER:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_006
+    message: Unable to enter payment number.
+
+  UNABLE_TO_EXPAND_SEARCH_PANEL:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_007
+    message: Unable to expand search panel.
+
+  UNABLE_TO_ACCESS_BOTTOM_SEARCH_BUTTON_APPLY_PAYMENT_FILTER_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_008
+    message: Unable to access bottom search button apply payment filter fn.
+
+  UNABLE_TO_ACCESS_VIEW_OPTIONS_DROPDOWN_IN APPLY_FILTER_PAYMENTS_FN:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_009
+    message: Unable to access view options dropdown in apply filter payments fn.
+
+  MODULE_NOT_DEVELOPED_FOR_THE_PAYMENT_FILTER:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_010
+    message: Module not developed for the payment filter.
+
+  INVALID_INPUT_DATA_IN_PAYMENT_FILTER:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_011
+    message: Invalid input data in payment filter.
+
+  INAVLID_RECIEVED_FROM_DATE_FORMAT:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_013
+    message: Inavlid recieved from date format.
+
+  INAVLID_RECIEVED_TO_DATE_FORMAT:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_014
+    message: Inavlid recieved to date format.
+
+  INAVLID_PAYMENT_FROM_DATE_FORMAT:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_015
+    message: Inavlid payment from date format.
+
+  INAVLID_PAYMENT_TO_DATE_FORMAT:
+    code: E5_WAYSTAR_FN_APPLY_FILTER_PAYMENTS_SE_016
+    message: Inavlid payment to date format.
+
+  DOWNLOAD_BUTTON_IN_EXPORT_GRID_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_BE_001
+    message: Download button in export grid not enabled.
+
+  MORE_THEN_ONE_FILE_FOUND_IN_TRIGGER_AN_EXPORT_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_BE_002
+    message: More then one file found in trigger an export fn.
+
+  FIRST_PAGE_BUTTON_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_BE_003
+    message: First page button not enabled.
+
+  MORE_THAN_ONE_FILE_FOUND_IN_EXPORT_GRID:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_BE_004
+    message: More than one file found in export grid.
+
+  FILE_NOT_IN_COMPLETE_STATUS_IN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_BE_005
+    message: File not in complete status in download an available export from remits fn.
+
+  GRID_IS_EMPTY_IN_REMITS_EXPORT:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_BE_006
+    message: Grid is empty in remits export.
+
+  FILE_NOT_AVAILABLE_TO_DOWNLOAD_IN_EXPORTS:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_BE_007
+    message: File not available to download in exports.
+
+  FILE_NOT_FOUND_IN_EXPORT_PAGE_IN_TRIGGER_AN_EXPORT_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_BE_008
+    message: File not found in export page in trigger an export fn.
+
+  UNKNOWN_ERROR_OCCURRED_IN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_SE_000
+    message: Unknown error occurred in download an available export from remits fn.
+
+  UNABLE_TO_ACCESS_EXPORT_GRID:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_SE_001
+    message: Unable to access export grid.
+
+  UNABLE_TO_DOWNLOAD_EXPORT_FILE:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_SE_002
+    message: Unable to download export file.
+
+  FAILED_TO_DOWNLOAD_FILE_FROM_EXPORT_GRID:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_SE_003
+    message: Failed to download file from export grid.
+
+  UNABLE_TO_ACCESS_NEXT_BUTTON_IN_EXPORT_GRID:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_SE_004
+    message: Unable to access next button in export grid.
+
+  UNABLE_TO_LOCATE_REMITS_EXPORTS_PAGE_IN_TRIGGER_AN_EXPORT_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_SE_005
+    message: Unable to locate remits exports page in trigger an export fn.
+
+  UNABLE_TO_ACCESS_CURRENT_PAGE_FIELD_IN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_SE_006
+    message: Unable to access current page field in download an available export from remits fn.
+
+  INVAILD_EXPORT_PAGE_TO_PROCESS:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_SE_007
+    message: Invaild export page to process.
+
+  UNABLE_TO_GET_CURRENT_PAGE_NUMBER_IN_EXPORT_GRID:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_SE_008
+    message: Unable to get current page number in export grid.
+
+  FAILED_TO_NAVIGATE_NEXT_PAGE_IN_EXPORT:
+    code: E5_WAYSTAR_FN_DOWNLOAD_AN_AVAILABLE_EXPORT_FROM_REMITS_SE_009
+    message: Failed to navigate next page in export.
+
+  ERROR_OCCURED_WHILE_DOWNLOADING_FILE:
+    code: E5_WAYSTAR_FN_DOWNLOAD_FILE_FROM_E5_CLOUD_STORAGE_SE_001
+    message: Error occured while downloading file.
+
+  CHECKBOX_ACTION_DROPDOWN_NOT_ENABLED_IN_DOWNLOAD_PAYMENT_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_BE_001
+    message: Checkbox action dropdown not enabled in download payment fn.
+
+  DOWNLOAD_ZIP_DROPDOWN_NOT_ENABLED_IN_DOWNLOAD_PAYMENT_FILE_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_BE_002
+    message: Download zip dropdown not enabled in download payment file fn.
+
+  CHECKBOX_ACTION_NOT_ENABLED_IN_DOWNLOAD_PAYMENT_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_BE_003
+    message: Checkbox action not enabled in download payment fn.
+
+  CLEAR_SELECTED_BUTTON_NOT_ENABLED_DOWNLOAD_PAYMENT_FILE_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_BE_004
+    message: Clear selected button not enabled download payment file fn.
+
+  DOWNLOADS_PAGE_NOT_LOADED_IN_DOWNLOAD_PAYMENT_FILE_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_BE_005
+    message: Downloads page not loaded in download payment file fn.
+
+  NO_FILES_AVAILABLE_IN_SPR_ZIP_FILE:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_BE_006
+    message: No files available in spr zip file.
+
+  MORE_THAN_ONE_FILE_IS_AVAILABLE_IN_SPR_ZIP_FILE:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_BE_007
+    message: More than one file is available in spr zip file.
+
+  UNKNOWN_ERROR_OCCURED_IN_DOWNLOAD_PAYMENT_FILE_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_000
+    message: Unknown error occured in download payment file fn.
+
+  UNABLE_ACCESS_ACTION_PANE_IN_DOWNLOAD_PAYMENT_FILE_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_001
+    message: Unable access action pane in download payment file fn.
+
+  UNABLE_TO_ACCESS_DOWNLOAD_ZIP_DROPDOWN_IN_DOWNLOAD_PAYMENT_FILE_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_002
+    message: Unable to access download zip dropdown in download payment file fn.
+
+  DOWNLOADS_PAGE_NOT_AVAILABLE_IN_DOWNLOAD_PAYMENT_FILE_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_003
+    message: Downloads page not available in download payment file fn.
+
+  UNABLE_TO_ACCESS_CHECKBOX_ACTION_IN_DOWNLOAD_PAYMENT_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_004
+    message: Unable to access checkbox action in download payment fn.
+
+  ERROR_WHILE_DOWNLOADING_FILE_IN_DOWNLOAD_PAYMENT_FILE_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_005
+    message: Error while downloading file in download payment file fn.
+
+  CHECKBOX_ACTION_NOT_ATTACHED_IN_DOWNLOAD_PAYMENT_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_006
+    message: Checkbox action not attached in download payment fn.
+
+  UNABLE_TO_ACCESS_CLEAR_SELECTED_BUTTON_DOWNLOAD_PAYMENT_FILE_FN:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_007
+    message: Unable to access clear selected button download payment file fn.
+
+  NO_RECORD_FOUND_IN_DOWNLOADS_PAGE_GRID:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_010
+    message: No record found in downloads page grid.
+
+  MORE_THAN_ONE_RECORD_FOUND_IN_DOWNLOADS_PAGE_GRID:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_011
+    message: More than one record found in downloads page grid.
+
+  ERROR_WHILE_TRYING_TO_UNZIP_SPR_FILE:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_012
+    message: Error while trying to unzip spr file.
+
+  ERROR_WHILE_CONVERTING_DATA_FORM_SPR_FILE:
+    code: E5_WAYSTAR_FN_DOWNLOAD_PAYMENT_FILE_SE_013
+    message: Error while converting data form spr file.
+
+  ERROR_WHILE_LOADING_LOGIN_CREDENTIALS:
+    code: E5_WAYSTAR_FN_LOAD_LOGIN_CREDENTIALS_BE_001
+    message: Error while loading login credentials.
+
+  LOGIN_PAGE_NOT_FOUND_ERROR:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_BE_001
+    message: Login page not found error.
+
+  USERNAME_FIELD_NOT_EDITABLE:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_BE_002
+    message: Username field not editable.
+
+  PASSWORD_FIELD_NOT_EDITABLE:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_BE_003
+    message: Password field not editable.
+
+  LOGIN_BUTTON_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_BE_004
+    message: Login button not enabled.
+
+  ANSWER_FIELD_NOT_EDITABLE:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_BE_005
+    message: Answer field not editable.
+
+  AUTHENTICATION_CHECKBOX_NOT_EDITABLE:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_BE_006
+    message: Authentication checkbox not editable.
+
+  ACCOUNT_LOCKED_ERROR_IN_LOGIN_PAGE:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_BE_007
+    message: Account locked error in login page.
+
+  INVALID_CREDENTIALS_ERROR:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_BE_008
+    message: Invalid credentials error.
+
+  UNABLE_TO_FIND_HOME_PAGE:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_BE_009
+    message: Unable to find home page.
+
+  VERIFY_BUTTON_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_BE_010
+    message: Verify button not enabled.
+
+  UNKNOWN_QUESTION_TO_LOGIN_WAYSTAR:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_BE_012
+    message: Unknown question to login waystar.
+
+  UNKNOWN_ERROR_OCCURRED_IN_LOGIN_INTO_WAYSTAR_FN:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_SE_000
+    message: Unknown error occurred in login into waystar fn.
+
+  UNABLE_TO_ENTER_USERNAME:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_SE_001
+    message: Unable to enter username.
+
+  UNABLE_TO_ENTER_PASSWORD:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_SE_002
+    message: Unable to enter password.
+
+  UNABLE_TO_CLICK_LOGIN_BUTTON:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_SE_003
+    message: Unable to click login button.
+
+  UNABLE_TO_ENTER_ANSWER_FIELD:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_SE_004
+    message: Unable to enter answer field.
+
+  UNABLE_TO_ENTER_AUTHENTICATION_CHECKBOX:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_SE_005
+    message: Unable to enter authentication checkbox.
+
+  UNABLE_ACCESS_VERIFY_BUTTON:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_SE_006
+    message: Unable access verify button.
+
+  UNABLE_TO_CHECK_AUTHENTICATION_CHECKBOX:
+    code: E5_WAYSTAR_FN_LOGIN_INTO_WAYSTAR_SE_007
+    message: Unable to check authentication checkbox.
+
+  LOGOUT_BUTTON_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_LOGOUT_FROM_WAYSTAR_BE_001
+    message: Logout button not enabled.
+
+  LOGOUT_PAGE_NOT_FOUND_ERROR:
+    code: E5_WAYSTAR_FN_LOGOUT_FROM_WAYSTAR_BE_002
+    message: Logout page not found error.
+
+  UNKNOWN_ERROR_OCCURED_IN_LOGOUT_FN:
+    code: E5_WAYSTAR_FN_LOGOUT_FROM_WAYSTAR_SE_000
+    message: Unknown error occured in logout fn.
+
+  UNABLE_TO_ACCESS_LOGOUT_BUTTON:
+    code: E5_WAYSTAR_FN_LOGOUT_FROM_WAYSTAR_SE_001
+    message: Unable to access logout button.
+
+  MAIN_MENU_TAB_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_MAIN_MENU_NAVIGATION_BE_001
+    message: Main menu tab not enabled.
+
+  SUB_MENU_TAB1_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_MAIN_MENU_NAVIGATION_BE_002
+    message: Sub menu tab1 not enabled.
+
+  SUB_MENU_TAB2_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_MAIN_MENU_NAVIGATION_BE_003
+    message: Sub menu tab2 not enabled.
+
+  MENU_PAGE_NOT_FOUND_IN_MAIN_MENU_NAVAIGATION_FN:
+    code: E5_WAYSTAR_FN_MAIN_MENU_NAVIGATION_BE_004
+    message: Menu page not found in main menu navaigation fn.
+
+  UNKNOWN_ERROR_OCCURED_IN_MAIN_MENU_NAVIGATION_FN:
+    code: E5_WAYSTAR_FN_MAIN_MENU_NAVIGATION_SE_000
+    message: Unknown error occured in main menu navigation fn.
+
+  UNABLE_TO_ACCESS_MAIN_MENU_TAB:
+    code: E5_WAYSTAR_FN_MAIN_MENU_NAVIGATION_SE_001
+    message: Unable to access main menu tab.
+
+  UNABLE_TO_ACCESS_SUB_MENU_TAB1:
+    code: E5_WAYSTAR_FN_MAIN_MENU_NAVIGATION_SE_002
+    message: Unable to access sub menu tab1.
+
+  UNABLE_TO_ACCESS_SUB_MENU_TAB2:
+    code: E5_WAYSTAR_FN_MAIN_MENU_NAVIGATION_SE_003
+    message: Unable to access sub menu tab2.
+
+  SUB_MENU_TAB2_NOT_SELECTED:
+    code: E5_WAYSTAR_FN_MAIN_MENU_NAVIGATION_SE_004
+    message: Sub menu tab2 not selected.
+
+  UNABLE_TO_ACCESS_LOCATION_FIELD_IN_HOME_PAGE:
+    code: E5_WAYSTAR_FN_SELECT_LOCATION_BE_001
+    message: Unable to access location field in home page.
+
+  UNABLE_TO_ACCESS_LOCATION_SELECT_OPTION_IN_HOMEPAGE:
+    code: E5_WAYSTAR_FN_SELECT_LOCATION_BE_002
+    message: Unable to access location select option in homepage.
+
+  UNKNOWN_ERROR_OCCURED_IN_SELECT_LOCATION_FN:
+    code: E5_WAYSTAR_FN_SELECT_LOCATION_SE_000
+    message: Unknown error occured in select location fn.
+
+  UNABLE_TO_SELECT_LOCATION_IN_HOME_PAGE:
+    code: E5_WAYSTAR_FN_SELECT_LOCATION_SE_001
+    message: Unable to select location in home page.
+
+  UNABLE_TO_SELECT_LOCATION_DROPDOWN_VALUE_IN_HOMEPAGE:
+    code: E5_WAYSTAR_FN_SELECT_LOCATION_SE_002
+    message: Unable to select location dropdown value in homepage.
+
+  ACTION_PANE_HEADER_CHECKBOX_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_001
+    message: Action pane header checkbox not enabled.
+
+  ACTION_PANE_CLEAR_SELECTED_RECORD_BUTTON_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_002
+    message: Action pane clear selected record button not enabled.
+
+  ACTION_PANE_EXPORT_BUTTON_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_003
+    message: Action pane export button not enabled.
+
+  ACTION_PANE_EXPORT_VALUE_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_004
+    message: Action pane export value not enabled.
+
+  CUSTOME_FILE_NAME_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_005
+    message: Custome file name not enabled.
+
+  EXPORT_BUTTON_IN_CUSTOME_FILE_NAME_POPUP_NOT_ENABLED:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_006
+    message: Export button in custome file name popup not enabled.
+
+  GREEN_BANNER_DID_NOT_APPEAR:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_007
+    message: Green banner did not appear.
+
+  NO_RECORDS_TO_EXPORT_IN_REMITS_EXPORT_PAGE:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_008
+    message: No records to export in remits export page.
+
+  PAYMENT_PAGE_NOT_LOADED_IN_TRIGGER_AN_EXPORT_FN:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_009
+    message: Payment page not loaded in trigger an export fn.
+
+  ARCHIVE_BUTTON_IS_NOT_ENABLED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_010
+    message: Archive button is not enabled in remits payments page.
+
+  NO_RECORD_SELECTED_IN_REMITS_PAYMENTS_PAGE:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_011
+    message: No record selected in remits payments page.
+
+  INVALID_INPUTS_PASSED_FOR_CHECKBOX_ACTION_TRIGGER_AN_EXPORT_FN:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_BE_012
+    message: Invalid inputs passed for checkbox action trigger an export fn.
+
+  UNKNOWN_ERROR:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_000
+    message: Unknown error.
+
+  UNABLE_TO _ACCESS_CHECKBOX_IN_ACTION_PANE:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_001
+    message: Unable to  access checkbox in action pane.
+
+  UNABLE_TO_ACCESS_ACTION_PANE_CLEAR_SELECTED_RECORD_BUTTON:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_002
+    message: Unable to access action pane clear selected record button.
+
+  UNABLE_TO_ACCESS_ACTION_PANE_EXPORT_BUTTON:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_003
+    message: Unable to access action pane export button.
+
+  UNABLE_TO_ACCESS_ACTION_PANE_EXPORT_VALUE:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_004
+    message: Unable to access action pane export value.
+
+  UNABLE_TO_ACCESS_CUSTOM_FILE_NAME_POPUP_TEXTBOX:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_005
+    message: Unable to access custom file name popup textbox.
+
+  UNABLE_TO_ENTER_CUSTOM_FILE_NAME:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_006
+    message: Unable to enter custom file name.
+
+  UNABLE_TO_ACCESS_CUSTOME_FILE_POPUP_IN_REMITS_PAYMENTS_PAGE:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_007
+    message: Unable to access custome file popup in remits payments page.
+
+  CLEAR_SELECTEDROWS_POST_CONDITION_FAILED:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_008
+    message: Clear selectedrows post condition failed.
+
+  UNABLE_TO_ACCESS_ACTION_PANE_SELECTED_RECORD_COUNT:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_009
+    message: Unable to access action pane selected record count.
+
+  UNABLE_TO_ACCESS_ARCHIVE_BUTTON_IN_REMITS_PAYMENT_PAGE:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_010
+    message: Unable to access archive button in remits payment page.
+
+  UNABLE_TO_CLEAR_SELECT_ROWS_IN_REMITS_PAYMENTS_PAGE:
+    code: E5_WAYSTAR_FN_TRIGGER_AN_EXPORT_OF_ALL_AVAILABLE_RECORDS_PAYMENTS_SE_011
+    message: Unable to clear select rows in remits payments page.

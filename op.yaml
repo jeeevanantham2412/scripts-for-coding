@@ -1,0 +1,27 @@
+  UNABLE_TO_ACCESS_GRID_HEADER_IN_GRID_LEVEL_ACTION_FN:
+    code: E5_HCHB_FN_PERFORM_GRID_LEVEL_ACTION_BE_001
+    message: Unable to access grid header in grid level action fn.
+
+  UNABLE_TO_ACCESS_PATIENT_LEVEL_ACTION_IN_GRID_LEVEL_ACTION_FN:
+    code: E5_HCHB_FN_PERFORM_GRID_LEVEL_ACTION_BE_002
+    message: Unable to access patient level action in grid level action fn.
+
+  UNABLE_TO_ACCESS_EXPORT_COMPLETE_POPUP_IN_GRID_LEVEL_ACTION_FN:
+    code: E5_HCHB_FN_PERFORM_GRID_LEVEL_ACTION_BE_003
+    message: Unable to access export complete popup in grid level action fn.
+
+  UNABLE_TO_CLICK_GRID_HEADER_IN_GRID_LEVEL_ACTION_FN:
+    code: E5_HCHB_FN_PERFORM_GRID_LEVEL_ACTION_SE_001
+    message: Unable to click grid header in grid level action fn.
+
+  UNABLE_TO_CLICK_PATIENT_LEVEL_ACTION_IN_GRID_LEVEL_ACTION_FN:
+    code: E5_HCHB_FN_PERFORM_GRID_LEVEL_ACTION_SE_002
+    message: Unable to click patient level action in grid level action fn.
+
+  ERROR_WHILE_DOWNLOADING_FILE_IN_GRID_LEVEL_ACTION_FN:
+    code: E5_HCHB_FN_PERFORM_GRID_LEVEL_ACTION_SE_003
+    message: Error while downloading file in grid level action fn.
+
+  UNABLE_TO_CLOSE_EXPORT_COMPLETE_POPUP_IN_GRID_LEVEL_ACTION_FN:
+    code: E5_HCHB_FN_PERFORM_GRID_LEVEL_ACTION_SE_004
+    message: Unable to close export complete popup in grid level action fn.
